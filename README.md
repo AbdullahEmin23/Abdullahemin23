@@ -1,9 +1,14 @@
 ## Hi there I'am Abdullah Emin Bayram 
- Aircraft Maintenance and Repair student .
- İstanbul Gelişim Üniversitesi 1. sınıf öğrencisiyim.
- 2 yıla kadar phayton eğitimi ek olarak 1 yıl kadar ardinuo dersleri alıp çeşitli proojeler yaptım.Şimdi ise İstanbul Glişim Üniversitesinde otonom sistemler kursunda eğitim almaktayım.
- Uçak sistemlerine ve onları tamir etme konusunda ilgilm çok fazla ve hedefim okulumu güzel bir 3 üzeri gano ile bitirip Turkişh Technicde çalışmak.
  
+ Aircraft Maintenance and Repair student.
+ İstanbul Gelişim Üniversitesi 1. sınıf öğrencisiyim.  
+ 2 yıla kadar phayton eğitimi ek olarak 1 yıl kadar ardinuo dersleri alıp çeşitli proojeler yaptım.Şimdi ise İstanbul Glişim Üniversitesinde otonom sistemler kursunda eğitim almaktayım.  
+ Uçak sistemlerine ve onları tamir etme konusunda ilgilm çok fazla ve hedefim okulumu güzel bir 3 üzeri gano ile bitirip Turkişh Technicde çalışmak.  
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ I am an Aircraft Maintenance and Repair student at Istanbul Gelisim University, in my first year.       
+ I completed Phayton training for two years, plus Arduino courses for about a year, working on various projects.       
+ Currently, I am studying autonomous systems at Istanbul Gelisim University.       
+ I have a strong interest in aircraft systems and their repair, and my goal is to graduate with a good GPA and work at Turkish Technic.    
 <!--
 **AbdullahEmin23/Abdullahemin23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
