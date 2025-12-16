@@ -3,8 +3,10 @@
  Aircraft Maintenance and Repair student.
  İstanbul Gelişim Üniversitesi 1. sınıf öğrencisiyim.  
  2 yıla kadar phayton eğitimi ek olarak 1 yıl kadar ardinuo dersleri alıp çeşitli proojeler yaptım.Şimdi ise İstanbul Glişim Üniversitesinde otonom sistemler kursunda eğitim almaktayım.  
- Uçak sistemlerine ve onları tamir etme konusunda ilgilm çok fazla ve hedefim okulumu güzel bir 3 üzeri gano ile bitirip Turkişh Technicde çalışmak.  
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ Uçak sistemlerine ve onları tamir etme konusunda ilgilm çok fazla ve hedefim okulumu güzel bir 3 üzeri gano ile bitirip Turkişh Technicde çalışmak.
+ 
+ -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
  I am an Aircraft Maintenance and Repair student at Istanbul Gelisim University, in my first year.       
  I completed Phayton training for two years, plus Arduino courses for about a year, working on various projects.       
  Currently, I am studying autonomous systems at Istanbul Gelisim University.       
